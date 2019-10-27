@@ -2,3 +2,6 @@
 *.tar
 *.zip
 *.jar
+*.log
+
+mnt/*
